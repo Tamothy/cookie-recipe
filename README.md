@@ -10,7 +10,6 @@ This contains a cookie recipe practicing HTML fundamentals with lists, comments,
 
 ## Setup/Installation Requirements
 
-* Check out the GitHub pages link: https://tamothy.github.io/cookie-recipe
 * Clone repository if interested in making changes
 * Use Atom to customize changes
 * Make sure to commit regularly on terminal
